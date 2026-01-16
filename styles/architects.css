@@ -184,6 +184,22 @@ align-items: center;
 .sponsor-companies img{
     filter: grayscale(100%);
 }
+/* Footer Section */
+#footer-section{
+    margin-top: 130px;
+    margin-left: 60px;
+    text-align: center;
+    background-color: rgba(255, 244, 231, 1);
+    align-items: center;
+    justify-content: center;
+    max-width:1440px;
+    color: #424242;
+    font-size: 20px;
+    padding:39px 410px 38px 410px;
+    margin-bottom: 216px;
+    margin-right: 60px;
+}
+
 
 /* responsive media query for small devices */
 
@@ -220,8 +236,7 @@ align-items: center;
     margin-left:20px;
     margin-top:20px
 }
-    
-}
+
 #footer-section{
     margin-top: 130px;
     margin-left: 60px;
@@ -235,6 +250,9 @@ align-items: center;
     padding:39px 410px 38px 410px;
     margin-bottom: 216px;
     margin-right: 60px;
+}
+
+    
 }
 
 /* responsive for medium device */
@@ -255,4 +273,19 @@ align-items: center;
     margin-left:20px;
     margin-top:20px
 }
+#footer-section{
+    margin-top: 130px;
+    margin-left: 60px;
+    text-align: center;
+    background-color: rgba(255, 244, 231, 1);
+    align-items: center;
+    justify-content: center;
+    max-width:1440px;
+    color: #424242;
+    font-size: 20px;
+    padding:39px 410px 38px 410px;
+    margin-bottom: 216px;
+    margin-right: 60px;
+}
+
 }
